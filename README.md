@@ -1,2 +1,2 @@
-# Simon_Says
-Simon Says memory game
+# Tanmay_Says
+Tanmay Says memory game
